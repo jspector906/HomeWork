@@ -1,0 +1,39 @@
+* {
+  border: 2px solid rgba(174, 0, 255, 0.349);
+}
+
+* {
+  padding: 15px;
+}
+* {
+  margin: 15px
+}
+body {
+  background-color: powderblue;
+}
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+footer {
+  text-align: center;
+  color: red
+}
+
+.li1 {
+  text-align: center;
+  color: blue;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p, li1 {
+  font-family: fantasy;
+}
+
